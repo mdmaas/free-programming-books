@@ -1379,6 +1379,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
 * [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, and Lazaro Alonso
 * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
+* [The Julia Programming Language: an Effective Tutorial](https://www.matecdev.com/posts/julia-tutorial-science-engineering.html) - Martin D. Maas, PhD.
 * [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
 * [Quantitative Economics with Julia](https://julia.quantecon.org) - Jesse Perla, Thomas J. Sargent and John Stachurski (HTML, [PDF](https://web.archive.org/web/20210713122108/https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf))
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
